@@ -1,2 +1,2 @@
 # cssMemSlider
-https://anastasiall.github.io/cssMemSlider/index.html
+deploy - https://anastasiall.github.io/cssMemSlider/index.html
